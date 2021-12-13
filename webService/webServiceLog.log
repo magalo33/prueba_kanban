@@ -1,0 +1,272 @@
+[10/12/2021 21:38:42] [ERROR] org.springframework.orm.jpa.JpaObjectRetrievalFailureException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1
+[10/12/2021 21:40:54] [INFO] proceso iniciado
+[10/12/2021 21:41:01] [ERROR] org.springframework.orm.jpa.JpaObjectRetrievalFailureException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1
+[10/12/2021 21:42:58] [INFO] proceso iniciado
+[10/12/2021 21:43:04] [ERROR] org.springframework.orm.jpa.JpaObjectRetrievalFailureException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1; nested exception is javax.persistence.EntityNotFoundException: Unable to find com.sophos.ws.domain.Comentariosportarea with id 1
+[10/12/2021 21:45:45] [INFO] proceso iniciado
+[10/12/2021 21:47:19] [INFO] proceso iniciado
+[10/12/2021 21:48:47] [INFO] proceso iniciado
+[10/12/2021 21:49:16] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 21:54:17] [INFO] proceso iniciado
+[10/12/2021 21:54:32] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 21:59:48] [INFO] proceso iniciado
+[10/12/2021 22:01:58] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:05:36] [INFO] proceso iniciado
+[10/12/2021 22:30:48] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:34:31] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:37:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:39:33] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:42:18] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:44:11] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:45:02] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:45:30] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:47:55] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 22:49:15] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:40:48] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 63 path $.usuarioRequest.usuario.password
+[10/12/2021 23:40:48] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"66d43b6819b45a769466e58b5d1f1664"}}
+[10/12/2021 23:40:52] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 90 path $.expdate
+[10/12/2021 23:40:52] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"986842da4e758c7658d65393cdbcca85"}}
+[10/12/2021 23:41:00] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:41:00] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:41:05] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:41:05] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:41:12] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:41:12] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:41:33] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:41:33] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:41:51] [INFO] proceso iniciado
+[10/12/2021 23:42:00] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:42:00] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:42:38] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected value at line 1 column 63 path $.usuarioRequest.usuario.password
+[10/12/2021 23:42:38] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"66d43b6819b45a769466e58b5d1f1664"}}
+[10/12/2021 23:42:54] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:43:01] [ERROR] com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 94 path $.expdate
+[10/12/2021 23:43:01] [INFO] Se presentó un error técnico al tratar de validar el login {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:44:50] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:45:03] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:47:39] [INFO] proceso iniciado
+[10/12/2021 23:47:48] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:48:05] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:48:15] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:49:00] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:49:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[10/12/2021 23:49:16] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:08:44] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:08:53] [ERROR] java.lang.NullPointerException
+[11/12/2021 00:08:53] [INFO] Se presentÃ³ un error tÃ©cnico al tratar de validar el login {}
+[11/12/2021 00:11:36] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:11:44] [ERROR] java.lang.NullPointerException
+[11/12/2021 00:11:44] [INFO] Se presentÃ³ un error tÃ©cnico al tratar de validar el login {}
+[11/12/2021 00:11:55] [ERROR] java.lang.NullPointerException
+[11/12/2021 00:11:55] [INFO] Se presentÃ³ un error tÃ©cnico al tratar de validar el login {}
+[11/12/2021 00:14:16] [INFO] proceso iniciado
+[11/12/2021 00:14:30] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:14:41] [ERROR] java.lang.NullPointerException
+[11/12/2021 00:14:41] [INFO] Se presentó un error técnico al tratar de validar el login {}
+[11/12/2021 00:20:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:20:35] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"edeac73d97520134844393aa1ccbfc34"}}
+[11/12/2021 00:21:35] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"edeac73d97520134844393aa1ccbfc34"}}
+[11/12/2021 00:23:46] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:23:59] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:04] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:08] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:21] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:28] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:32] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:24:38] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:27:57] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:28:05] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:28:10] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:32:01] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:32:07] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"3f959dbde76150016a6a16d8ba8b353c"}}
+[11/12/2021 00:32:16] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:32:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:32:40] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:36:13] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:36:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:36:29] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:52:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:52:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:53:02] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:54:37] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:54:53] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:57:59] [INFO] proceso iniciado
+[11/12/2021 00:58:17] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 00:58:33] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:11:53] [INFO] proceso iniciado
+[11/12/2021 01:15:47] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:16:00] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:16:46] [INFO] proceso iniciado
+[11/12/2021 01:18:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:18:40] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:19:21] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:20:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:29:53] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:32:32] [INFO] proceso iniciado
+[11/12/2021 01:32:57] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:36:27] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:37:19] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:38:24] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:39:02] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:39:07] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:39:50] [INFO] Login ok {"usuario":{"usuario":"SOPHOSSOLUTIONS@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:41:00] [INFO] Login ok {"usuario":{"usuario":"SOPHOSSOLUTIONS@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:41:27] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"SOPHOSSOLUTIONS@gmail.com","password":"66d43b6819b45a769466e58b5d1f1664"}}
+[11/12/2021 01:46:03] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:48:19] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:49:02] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:50:21] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:50:44] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:51:08] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:52:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:54:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:54:49] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 01:56:05] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 02:00:31] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 02:01:49] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 09:41:15] [INFO] proceso iniciado
+[11/12/2021 09:42:21] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 09:42:50] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"66d43b6819b45a769466e58b5d1f1664"}}
+[11/12/2021 10:02:46] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:11:57] [INFO] proceso iniciado
+[11/12/2021 10:16:44] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:17:39] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo33@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:17:50] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:50:09] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:50:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:51:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:53:31] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:55:19] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 10:58:42] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 11:01:10] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 11:04:06] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 11:05:53] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 11:06:41] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:02:27] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:10:00] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:47:04] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:48:13] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:52:21] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 12:52:35] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 13:40:25] [INFO] proceso iniciado
+[11/12/2021 13:50:31] [INFO] proceso iniciado
+[11/12/2021 14:15:26] [INFO] Registro  de usuario ok {"usuario":{"idusuario":44,"usuario":"manuelmaria@gmail.com","password":"...","nombre":"manual maria vallejo"}}
+[11/12/2021 14:16:01] [INFO] Login ok {"usuario":{"usuario":"manuelmaria@gmail.com","password":"2e57f67fa90a9ca4ab15c195725c7ead"}}
+[11/12/2021 14:17:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:21:24] [INFO] Registro  de usuario ok {"usuario":{"idusuario":45,"usuario":"edgar@castro.com","password":"...","nombre":"eggar manuel castro"}}
+[11/12/2021 14:22:20] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"magalo34@gmail.com","password":"b0cd86417afdc5ffd07b3fc84164ba2c"}}
+[11/12/2021 14:22:45] [INFO] Registro  de usuario ok {"usuario":{"idusuario":46,"usuario":"magalo34@gmail.com","password":"...","nombre":"mauricio lopez"}}
+[11/12/2021 14:24:00] [INFO] Registro  de usuario ok {"usuario":{"idusuario":47,"usuario":"magalo35@gmail.com","password":"...","nombre":"esperanza gomez"}}
+[11/12/2021 14:24:22] [INFO] Login ok {"usuario":{"usuario":"magalo35@gmail.com","password":"1e08ac35f120a15f1c8e69d2b722ebd3"}}
+[11/12/2021 14:25:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:26:57] [INFO] Login ok {"usuario":{"usuario":"magalo35@gmail.com","password":"1e08ac35f120a15f1c8e69d2b722ebd3"}}
+[11/12/2021 14:28:09] [INFO] proceso iniciado
+[11/12/2021 14:32:56] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:33:35] [INFO] Login ok {"usuario":{"usuario":"magalo35@gmail.com","password":"1e08ac35f120a15f1c8e69d2b722ebd3"}}
+[11/12/2021 14:34:32] [INFO] Login ok {"usuario":{"usuario":"magalo34@gmail.com","password":"b0cd86417afdc5ffd07b3fc84164ba2c"}}
+[11/12/2021 14:37:07] [INFO] proceso iniciado
+[11/12/2021 14:37:15] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:53:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:56:29] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:58:33] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:58:49] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:58:58] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:59:30] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 14:59:48] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:03:34] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:05:12] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:07:24] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:16:25] [INFO] Registro  de usuario ok {"usuario":{"idusuario":48,"usuario":"email@arturo.calle","password":"...","nombre":"arturo calle"}}
+[11/12/2021 15:16:30] [INFO] Login ok {"usuario":{"usuario":"email@arturo.calle","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 15:16:50] [INFO] Login ok {"usuario":{"usuario":"email@arturo.calle","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 15:18:03] [INFO] Login ok {"usuario":{"usuario":"email@arturo.calle","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 15:18:10] [INFO] Login ok {"usuario":{"usuario":"email@arturo.calle","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 15:18:34] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:25:29] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:26:28] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 15:27:01] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:05:39] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:05:48] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 16:05:55] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:08:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:08:31] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"ba72d2c4292bab607c0a2e312f5958d1"}}
+[11/12/2021 16:08:38] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:08:45] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"6497c1582439a14bdec95cd4c381ba1a"}}
+[11/12/2021 16:08:59] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:09:11] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"0e5798e35f58d137a3b9d8e941d25f46"}}
+[11/12/2021 16:09:18] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:09:43] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:14:13] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:15:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:15:42] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:16:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:19:51] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:21:37] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:23:48] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:26:15] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:26:41] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:28:11] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:28:27] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:29:39] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:31:46] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:32:05] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:33:16] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:33:46] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:34:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:34:35] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:35:13] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:35:30] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:36:58] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:37:28] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:43:43] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:44:42] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:45:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:46:43] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"11d378b10958ac6bd0e36222aa193bca"}}
+[11/12/2021 16:46:45] [INFO] No hay datos relacionados a estas credenciales {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"11d378b10958ac6bd0e36222aa193bca"}}
+[11/12/2021 16:46:54] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:51:09] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:52:04] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:53:23] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:56:07] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:56:47] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:57:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:57:46] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 16:58:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:00:08] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:01:55] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:02:41] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:03:51] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:04:37] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:05:12] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:06:32] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:07:08] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:07:54] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:09:15] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:10:48] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:11:19] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:12:17] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:13:51] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 17:14:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:09:28] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:18:00] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:22:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:24:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:26:58] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:29:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:31:22] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:42:36] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:43:41] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:44:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:45:06] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:46:25] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:47:47] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:47:58] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:49:35] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:49:51] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 19:50:13] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 20:00:50] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[11/12/2021 20:02:26] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[12/12/2021 08:35:59] [INFO] proceso iniciado
+[12/12/2021 09:23:28] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[12/12/2021 09:26:59] [INFO] Login ok {"usuario":{"usuario":"otro_usuario__2_garzonq@gmail.com","password":"49292684ca6a77398e35c7c738ec125a"}}
+[12/12/2021 10:39:31] [INFO] proceso iniciado
